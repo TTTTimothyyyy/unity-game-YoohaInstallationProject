@@ -17,3 +17,7 @@ Design and Style:
 - Inspired by Doku Doku Literature Club.
 - Inspired by Yanderi Simulator.
 - Bitter sweat.
+
+Tools:
+1. Uinity 3D
+2. C# with Visual Studio
